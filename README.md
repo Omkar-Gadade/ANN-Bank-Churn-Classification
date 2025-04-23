@@ -32,7 +32,7 @@ The dataset used is a `.csv` file containing **10 input features** related to cu
 
 ---
 
-## 🔄 Data Preprocessing
+## 🔄 Data Preprocessing (Performed in Experoments.ipynb file)
 
 - **Encoding**:
   - One-Hot Encoding for categorical features
@@ -66,8 +66,8 @@ The dataset used is a `.csv` file containing **10 input features** related to cu
 
 ## 💾 Model Files
 
-- `.pkl` – Preprocessing pipeline (if applicable)
-- `.h5` – Trained ANN model
+- `.pkl` – Preprocessing pipeline (Encoding and Standarization on training data saved in .pkl files, performed in experiments.ipynb)
+- `.h5` – Trained ANN model (saved the trained ANN model in .h5 file, performed in experiments.ipynb)
 
 ---
 
