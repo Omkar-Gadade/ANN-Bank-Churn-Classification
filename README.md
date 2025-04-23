@@ -117,8 +117,6 @@ A user-friendly interface was built using Streamlit to interact with the model i
 ## 📬 Contact
 
 **Author**: Omkar Gadade  
-📍 Thane, India
+Email: omkarumeshgadade@gmail.com
+📍 Navi Mumbai, India
 
----
-
-Would you like me to generate a `requirements.txt` as well?
