@@ -68,6 +68,10 @@ The dataset used is a `.csv` file containing **10 input features** related to cu
 
 - `.pkl` – Preprocessing pipeline (Encoding and Standarization on training data saved in .pkl files, performed in experiments.ipynb)
 - `.h5` – Trained ANN model (saved the trained ANN model in .h5 file, performed in experiments.ipynb)
+- 'experiments.ipynb' - The file is used to perform Feature Engineering and Preprocessing Tasks and saving the encodings and Model in '.pkl' and '.h5' files
+- 'prediction.ipynb' - The file is used for just checking and experimenting the code for prediction before executing in the final app.py file.
+- 'app.py' - The final main application .py file which is required to be run in vs code terminal
+- 'requirements.txt' - pip install the requirements file to install all the dependencies and libraries (one can create a Virtual Environment)
 
 ---
 
